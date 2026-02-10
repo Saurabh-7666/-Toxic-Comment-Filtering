@@ -1,0 +1,5 @@
+message,severity_score,moderation_action
+you are stupid,2,Warn User
+nice game bro,0,Allow
+kill yourself,5,Auto Ban
+this is f***ing trash,3,Mute User
